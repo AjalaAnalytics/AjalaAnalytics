@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Ajala
+# 👨‍💻 Pedro Ajala
 
 **`Analista de Dados`**
 
