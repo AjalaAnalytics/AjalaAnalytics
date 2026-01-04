@@ -48,5 +48,10 @@ Sou Analista de Dados focado em transformar dados brutos em insights claros para
 
 - 💼 LinkedIn: [Pedro Ajala](https://www.linkedin.com/in/pedroajala01/)
 
+- ## 📂 Portfólio
+👉 Veja meus projetos completos aqui:  
+https://github.com/AjalaAnalytics/meu-portfolio
+
+
 
 
